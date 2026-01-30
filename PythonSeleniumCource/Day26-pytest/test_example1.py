@@ -1,0 +1,8 @@
+import pytest
+
+class TestClass:
+    def testMethod1(self):
+        print("Method 1")
+    def testMethod2(self):
+        print("Method 2")
+
